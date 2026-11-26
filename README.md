@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This calculator supports addition, subtraction, and multiplication.
+This calculator supports addition, subtraction, multiplication, and division.
 
 ## How to run
 
