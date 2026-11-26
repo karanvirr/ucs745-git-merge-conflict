@@ -1,0 +1,6 @@
+Q1 STARTER PROJECT
+
+Run the calculator:
+  python3 calculator.py
+
+The README.md contains one deliberately simple feature-summary sentence. In the lab steps, you will edit that exact same sentence differently on two branches to create a real merge conflict. Do not change that sentence before starting the Git exercise.
